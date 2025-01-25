@@ -1,4 +1,2 @@
-
 # Web-Programming
-
- Sample fitness site, within one page, using: HTML, CSS and JS.
+Sample Fitness Website built as a single-page application using HTML, CSS, and JavaScript.
